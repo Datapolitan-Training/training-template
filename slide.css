@@ -151,7 +151,8 @@ h2, h3, h4, h5, h6 {
 p {
   font-family: 'Rubik';
   font-weight: 400;
-  color:#4f655a;
+  font-size:1.8em;
+  color:#000000;
 }
 
 ul {
