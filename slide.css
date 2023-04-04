@@ -142,7 +142,7 @@ h1 {
 h2, h3, h4, h5, h6 {
   font-family: 'Oswald';
   font-weight: medium;
-  color:#4f655a;
+  color:#36454F;
   margin: 15px 5px 15px 5px;
   /*text-transform: uppercase;*/
   letter-spacing:0.035em;
@@ -152,7 +152,7 @@ p {
   font-family: 'Rubik';
   font-weight: 400;
   font-size:1.8em;
-  color:#000000;
+  color:#36454F;
 }
 
 ul {
@@ -161,7 +161,7 @@ ul {
 li {
   font-family: 'Rubik';
   font-size:1.8em;
-  color:#4f655a;
+  color:#36454F;
 }
 
 img {
